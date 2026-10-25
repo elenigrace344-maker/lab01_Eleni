@@ -6,7 +6,7 @@ This project implements keyboard and file input operations in Python, following 
 
 ## Features
 
-### Requirement 1 – Console Input
+### Requirement 1 – Keyboard Input
 - Read a sequence of numbers from the keyboard.
 - Read a 2D array of numbers (dimensions provided by the user).
 - Display the results clearly.
